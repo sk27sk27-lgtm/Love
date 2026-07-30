@@ -6,33 +6,33 @@
 const PHOTOS = [
   {
     src: "images/1.jpg",
-    caption: "Ordinary afternoon",
-    message: "It’s funny — of all the photos we have, it’s the everyday ones I love most. Just us, on a random afternoon, being ourselves."
+    caption: "Our 1st pic",
+    message: "Every beautiful story starts with a single moment.I never knew that one smile from you would become my favorite memory.That was the beginning of us, and the beginning of my happiest chapter."
   },
   {
     src: "images/2.jpg",
-    caption: "City lights",
-    message: "Some streets we’ll forget, some we never will. This one, with you close and the lights above us, I’m keeping forever."
+    caption: "The we kissed",
+    message: "The Kiss That Changed Everything 💋That one kiss wasn't just a moment...It became the beginning of countless dreams, endless smiles, and a love I'll always treasure.Every time I look at this photo, I relive that beautiful feeling all over again.Forever my favorite first kiss. ❤️."
   },
   {
     src: "images/3.jpg",
-    caption: "That evening out",
-    message: "You, me, and nowhere else we needed to be. I could do a hundred more evenings exactly like this one."
+    caption: "The unexpected ",
+    message: "A Surprise Worth Every Mile ❤️You never expected me to be there...But the look on your face when you saw me is a memory I'll cherish forever.Every step I took to reach you was worth it, just to see you smile. 💖"
   },
   {
     src: "images/4.jpg",
-    caption: "Under the trees",
-    message: "You fit right here, against me, like it was always meant to be this easy. It still amazes me that it is."
+    caption: "The kisser",
+    message: "The Kiss I Never Expected 🙈❤️During Durga Puja, when I least expected it,you stole a kiss and my heart all over again. 💋It was unexpected, unforgettable, and one of my favorite memories with you. ❤️"
   },
   {
     src: "images/5.jpg",
-    caption: "Dressed up, just because",
-    message: "You in yellow, me trying not to stare too much. I don’t think I managed it — I never really do."
+    caption: "The potrait",
+    message: "The Day We Became "Us" ❤️Our first official date, our first couple portrait, and a memory I'll cherish forever.Every time I look at this picture, I'm reminded that the best moments in my life are the ones I've shared with you.Here's to our first date... and to all the beautiful ones still waiting for us. 💖"
   },
   {
     src: "images/6.jpg",
-    caption: "One more selfie",
-    message: "We have a hundred selfies that look almost the same, and I want a hundred more. Never get tired of this view."
+    caption: "My favourite",
+    message: " Held You Close ❤️My favorite picture, from my favorite day.Holding you in my arms during Saraswati Puja felt like the whole world had paused just for us. 🫂🤍If I could relive one moment forever, it would be this one—with you, in my arms. ❤️"
   }
 ];
 
