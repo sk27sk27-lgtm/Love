@@ -27,7 +27,7 @@ const PHOTOS = [
   {
     src: "images/5.jpg",
     caption: "The potrait",
-    message: "The Day We Became "Us" ❤️Our first official date, our first couple portrait, and a memory I'll cherish forever.Every time I look at this picture, I'm reminded that the best moments in my life are the ones I've shared with you.Here's to our first date... and to all the beautiful ones still waiting for us. 💖"
+    message: "The Day We Became 'Us' ❤️Our first official date, our first couple portrait, and a memory I'll cherish forever.Every time I look at this picture, I'm reminded that the best moments in my life are the ones I've shared with you.Here's to our first date... and to all the beautiful ones still waiting for us. 💖"
   },
   {
     src: "images/6.jpg",
