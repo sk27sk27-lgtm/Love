@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Our Constellation 🌌</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,500&family=Marcellus&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Ambient night sky -->
+<canvas id="sky"></canvas>
+<div id="shooting-stars"></div>
+<div id="hearts-layer"></div>
+
+<!-- Music toggle -->
+<button id="music-toggle" aria-label="Toggle music">
+  <span class="note">♪</span>
+  <span id="music-label">Play our song</span>
+</button>
+
+<!-- Intro / Hero -->
+<section class="hero">
+  <div class="hero-inner">
+    <p class="eyebrow">✦ a small constellation of us ✦</p>
+    <h1 class="hero-title">Every star up there<br>has nothing on <em>you</em>.</h1>
+    <p class="hero-sub">six moments, one story that keeps going.</p>
+    <div class="scroll-cue">
+      <span>scroll gently</span>
+      <div class="scroll-line"></div>
+    </div>
+  </div>
+</section>
+
+<!-- Gallery -->
+<section class="gallery" id="gallery">
+  <h2 class="section-title">Our Constellation</h2>
+  <p class="section-sub">tap a star to open a memory</p>
+
+  <div class="cards" id="cards"></div>
+</section>
+
+<!-- Closing -->
+<section class="closing">
+  <p class="closing-eyebrow">✦</p>
+  <h2>To be continued,<br>always with you.</h2>
+  <p class="closing-sub">— forever your favorite person</p>
+</section>
+
+<!-- Audio: soft ambient instrumental, generated in-browser (no copyright, works offline) -->
+<script src="script.js"></script>
+</body>
+</html>
